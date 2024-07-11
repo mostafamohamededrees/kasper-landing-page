@@ -402,7 +402,7 @@ header nav .form i {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
   position: relative;
-  background-image: url(../IMAGES/gh.jpg);
+  background-image: url(../images/gh.jpg);
   background-size: cover;
   display: flex;
   align-items: center;
@@ -770,7 +770,7 @@ header nav .form i {
 .quote {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url(../IMAGES/quote.jpg);
+  background-image: url(../images/quote.jpg);
   background-size: cover;
   text-align: center;
   position: relative;
